@@ -1,6 +1,6 @@
 {
-  "name": "my-new-pwa",
-  "short_name": "my-new-pwa",
+  "name": "info6128 lab01",
+  "short_name": "info6128 lab01",
   "start_url": "https://carobang.github.io/INFO-6128/",
   "display": "standalone",
   "orientation": "portrait",
